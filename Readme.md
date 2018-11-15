@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainWindow.xaml](./CS/DateTimeChartRangeControlClient/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/DateTimeChartRangeControlClient/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/DateTimeChartRangeControlClient/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DateTimeChartRangeControlClient/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to bind a date-time chart range control client to a list of custom objects
 
 
